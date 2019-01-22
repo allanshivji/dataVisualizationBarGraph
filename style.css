@@ -1,0 +1,12 @@
+body {
+    top: 0px;;
+    text-align: center;
+}
+
+.bar:hover {
+    fill: rgb(0, 0, 0);
+}
+
+.text{
+    text-align: center;
+}
